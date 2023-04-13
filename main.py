@@ -24,7 +24,7 @@ def main(page: ft.Page):
         page.update()
 
     def animate3(e):
-        print("Presionado")
+        print("Fernando el poderoso estuvo aquí")
 
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
