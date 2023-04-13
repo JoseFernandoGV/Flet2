@@ -29,7 +29,7 @@ def main(page: ft.Page):
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.spacing = 30
-    btn = ft.ElevatedButton(text="FernandoGPoder", on_click=animate, data =0)
+    btn = ft.ElevatedButton(text="Pascalsiño", on_click=animate, data =0)
     page.add(
         c,
         btn,
